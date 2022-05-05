@@ -1,0 +1,8 @@
+README.md
+setup.py
+pylibSDR/__init__.py
+pylibSDR/bladeRF.py
+pylibSDR.egg-info/PKG-INFO
+pylibSDR.egg-info/SOURCES.txt
+pylibSDR.egg-info/dependency_links.txt
+pylibSDR.egg-info/top_level.txt
